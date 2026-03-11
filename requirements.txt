@@ -1,0 +1,8 @@
+tensorflow
+opencv-python
+matplotlib
+numpy
+lime
+scikit-image
+streamlit
+requests
